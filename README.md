@@ -1,2 +1,2 @@
 # Hello, git!
-Jenkins Service Hook Test again again !!
+Jenkins Service Hook Test !!
